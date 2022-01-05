@@ -1515,7 +1515,7 @@
   font-family: "Nunito" !important;
 }
 :root .bg-h5JY_x {
-  background: var(--background-tertiary-alt);
+  background: var(--cor-fundo);
   background-size: cover;
   background-repeat: no-repeat;
 }

@@ -1437,9 +1437,10 @@
 :root .nowPlayingColumn-2sl4cE::before {
   content: "Friends activity";
   position: absolute;
-  top: -60px;
+  top: -210px;
+  right: 0px;
   z-index: 1;
-  width: 100%;
+  width: 322px;
   height: 60px;
   display: flex;
   align-items: center;
@@ -1453,9 +1454,10 @@
 :root .nowPlayingColumn-2sl4cE::after {
   content: "";
   position: absolute;
-  bottom: -35px;
+  bottom: -15px;
   z-index: 1;
-  width: 100%;
+  right: 0px;
+  width: 322px;
   height: 35px;
   background-color: var(--background-secondary);
   border-radius: 0 0 var(--border-radius) var(--border-radius);
@@ -1472,12 +1474,13 @@
   border-top: none;
   background: var(--background-modifier-hover);
   margin: 8px 10px 8px 20px;
-  padding: 16px 10px;
+  padding: 0px 10px;
 }
 :root .container-1D34oG .peopleListItem-2nzedh:hover .actionButton-uPB8Fs {
   background-color: var(--background-secondary-alt);
 }
 :root .nowPlayingColumn-2sl4cE .scroller-2ZPeAD {
+  bottom: 160px;
   border: none;
 }
 :root .controlButton-2MhVEL foreignObject {

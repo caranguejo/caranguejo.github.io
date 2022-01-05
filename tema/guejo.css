@@ -471,7 +471,7 @@
 }
 /* membros */
 :root .membersWrap-2h-GB4 .members-1998pB {
-  height: 505px;
+  height: 500px;
   bottom: 105px;
   width: 100%;
   background-color: var(--background-primary);
@@ -1424,15 +1424,15 @@
   background-color: var(--background-secondary);
   box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.2), 0 0 0 1px rgba(56, 31, 31, 0.11);
 }
-
+/*sexo*/
 :root .nowPlayingColumn-2sl4cE {
   position: fixed;
   top: 280px;
-  bottom: 120px;
+  bottom: 105px;
   right: 60px;
-  width: 320px;
+  width: 322px;
   min-width: unset;
-  background-color: var(--background-primary);
+  background-color: var(--background-secondary);
 }
 :root .nowPlayingColumn-2sl4cE::before {
   content: "Friends activity";

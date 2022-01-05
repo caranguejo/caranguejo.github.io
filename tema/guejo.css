@@ -919,7 +919,7 @@
   padding: 60px 10px;
 }
 :root .contentColumn-2hrIYH, :root .customColumn-Rb6toI, :root .hero-EvfTTA, :root .notificationSettings-1NQKPR, :root .noticeRegion-1YviSH, :root .customScroller-26gWhv > div, :root .userSettingsVoice-iwdUCU {
-  max-width: 95%;
+  width: 0px;
 }
 :root .featuresHeader-4YwLcc {
   text-align: center;
@@ -1450,21 +1450,6 @@
   color: var(--header-primary);
   background-color: var(--background-secondary);
   border-radius: var(--border-radius) var(--border-radius) 0 0;
-}
-:root .nowPlayingColumn-2sl4cE::after {
-  content: "";
-  position: absolute;
-  bottom: -15px;
-  z-index: 1;
-  right: 0px;
-  width: 322px;
-  height: 35px;
-  background-color: var(--background-secondary);
-  border-radius: 0 0 var(--border-radius) var(--border-radius);
-  background-image: linear-gradient(to right, var(--header-primary) 33%, rgba(255, 255, 255, 0) 0%);
-  background-position: top;
-  background-size: 21px 2px;
-  background-repeat: repeat-x;
 }
 :root .container-1D34oG {
   background-color: var(--background-primary);

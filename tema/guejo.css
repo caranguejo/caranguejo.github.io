@@ -477,7 +477,6 @@
   background-color: var(--background-primary);
 }
 :root .membersWrap-2h-GB4 .members-1998pB .content-3YMskv {
-  bottom: 0px;
   min-height: 1000px;
   background-color: transparent;
 }
@@ -1428,7 +1427,7 @@
 :root .nowPlayingColumn-2sl4cE {
   position: fixed;
   top: 280px;
-  bottom: 125px;
+  bottom: 115px;
   right: 60px;
   width: 322px;
   min-width: unset;
@@ -1703,7 +1702,7 @@
   }
 
   .container-2lgZY8::after {
-    content: "Stay comfy ❤";
+    content: "Te amo ❤";
     position: fixed;
     top: 70px;
     bottom: 105px;

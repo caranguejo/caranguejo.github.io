@@ -456,7 +456,7 @@
 :root .membersWrap-2h-GB4::before {
   content: "Member list";
   position: absolute;
-  bottom: 470px;
+  bottom: 490px;
   z-index: 1;
   width: 100%;
   height: 60px;
@@ -471,7 +471,7 @@
 }
 /* membros */
 :root .membersWrap-2h-GB4 .members-1998pB {
-  height: 500px;
+  height: 505px;
   bottom: 105px;
   width: 100%;
   background-color: var(--background-primary);

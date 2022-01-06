@@ -1732,7 +1732,7 @@
   }
 /*borda horizontal chat */
   .guilds-1SWlCJ + :nth-child(2) {
-    margin-right: var(--tamanho-chat);
+    margin-right: 450px;
     border-radius: 0 var(--border-radius) var(--border-radius) 0;
   }
 

@@ -427,7 +427,7 @@
 :root .searchResultsWrap-5RVOkx::before {
   content: "Search results";
   position: absolute;
-  top: -60px;
+  top: -230px;
   z-index: 1;
   width: 100%;
   height: 60px;
@@ -456,6 +456,7 @@
 }
 :root .searchResultsWrap-5RVOkx .searchHeader-1r_ZSh {
   display: grid;
+  bottom: 170px;
   grid-template-columns: auto auto auto;
   grid-gap: 10px;
   height: unset;
@@ -470,7 +471,10 @@
   padding: 0;
   margin: 0;
 }
+
+/*sexo1 */
 :root .searchResultsWrap-5RVOkx .scroller-3iiyhZ {
+  bottom: 165px;
   padding: 8px 0;
 }
 :root .searchResultsWrap-5RVOkx .scroller-3iiyhZ .searchResultGroup-1lU_-i {
@@ -514,6 +518,7 @@
 }
 :root .searchResultsWrap-5RVOkx .scroller-3iiyhZ .pageControl-1XvHg0 {
   width: 100%;
+
 }
 :root .messagesPopoutWrap-3zryHW {
   border-radius: var(--border-radius);
@@ -1791,7 +1796,7 @@
   .chatContent-3KubbW + :last-child {
     position: fixed;
     top: 280px;
-    bottom: 120px;
+    bottom: -100px;
     right: 60px;
     width: 320px;
     height: unset;

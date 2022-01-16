@@ -1796,10 +1796,9 @@
   .chatContent-3KubbW + :last-child {
     position: fixed;
     top: 280px;
-    bottom: -100px;
     right: 60px;
     width: 320px;
-    height: unset;
+    height: 360px;
   }
 
   .tabBody-2dgbAs {

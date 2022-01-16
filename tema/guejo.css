@@ -1503,7 +1503,7 @@
 
 :root .nowPlayingColumn-1eCBCN {
   position: fixed;
-  top: 280px;
+  top: 100px;
   bottom: 120px;
   right: 60px;
   width: 320px;
@@ -1513,7 +1513,7 @@
 :root .nowPlayingColumn-1eCBCN::before {
   content: "Friends activity";
   position: absolute;
-  top: -230px;
+  top: -50px;
   z-index: 1;
   width: 100%;
   height: 60px;
